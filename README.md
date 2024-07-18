@@ -1,12 +1,12 @@
-## Hi there 👋
+## Hi there 🙏🙏
 
-⚡About Me
+## About Me ⚡
 
 Enthusiastic computer engineer with a solid foundation in technology. Having spent more than a year working as a developer and designer. Ready to contribute to and thrive in a demanding program by utilizing this broad background and a passion for learning.
 
-🔭 I’m currently working on MERN Stack.
+## I’m currently working on MERN Stack. 🔭
 
-🌱 Skills
+## Skills 🌱
 
 - HTML
 - CSS
@@ -20,7 +20,7 @@ Enthusiastic computer engineer with a solid foundation in technology. Having spe
 - Python
 - Django
 
-📫 How to reach me:
+## How to reach me 📫
 
 - 🔗 : hpokhrel.com.np
 - 📩: info@hpokhrel.com.np
