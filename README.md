@@ -1,8 +1,6 @@
 ## Hi there 👋
 
 <!--
-**hpokhrel/hpokhrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##⚡About Me
+Enthusiastic computer engineer with a solid foundation in technology. Having spent more than a year working as a developer and designer. Ready to contribute to and thrive in a demanding program by utilizing this broad background and a passion for learning.
+
+🔭 I’m currently working on MERNStack.
+
+🌱 Skills
+- HTML
+- CSS
+- JS
+- React.js
+- Node.js
+- MongoDB
+- Express.js
+- Flutter
+- AI/ML
+- Python
+- Django
+
+📫 How to reach me:
+website: hpokhrel.com.np
+Email: info@hpokhrel.com.np
