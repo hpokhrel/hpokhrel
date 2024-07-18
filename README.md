@@ -22,5 +22,5 @@ Enthusiastic computer engineer with a solid foundation in technology. Having spe
 
 ## How to reach me 📫
 
-- 🔗 [hpokhrel.com.np](https://hpokhrel.com.np)
+- :globe_with_meridians: : [hpokhrel.com.np](https://hpokhrel.com.np)
 - 📩 info@hpokhrel.com.np
