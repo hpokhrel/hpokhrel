@@ -10,7 +10,7 @@ Enthusiastic computer engineer with a solid foundation in technology. Having spe
 
 - HTML
 - CSS
-- JS
+- JavaScript
 - React.js
 - Node.js
 - MongoDB
@@ -22,5 +22,5 @@ Enthusiastic computer engineer with a solid foundation in technology. Having spe
 
 ## How to reach me 📫
 
-- 🔗 : hpokhrel.com.np
-- 📩: info@hpokhrel.com.np
+- 🔗 [hpokhrel.com.np](https://hpokhrel.com.np)
+- 📩 info@hpokhrel.com.np
