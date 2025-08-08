@@ -37,24 +37,6 @@ As a **Computer Engineer** with a passion for technology, I specialize in buildi
 * **CI/CD**: GitHub Actions, Jenkins
 * **Containerization**: Docker, Kubernetes
 
-## 🚀 Recent Projects
-
-### **eCommerce Marketplace**
-
-* A **full-stack application** designed for seamless shopping experiences, built with **Next.js** for the frontend, **NestJS** for the backend, and **Stripe** for secure payments.
-
-### **Social Media Dashboard**
-
-* A real-time analytics and management dashboard, utilizing **React.js**, **Node.js**, and **GraphQL** to integrate data from multiple social platforms.
-
-### **Portfolio & Blog**
-
-* My personal site, built with **Next.js** and deployed via **Vercel**, where I share technical content, projects, and insights.
-
-### **Real-time Chat Application**
-
-* A **real-time communication platform** built with **Node.js** and **Socket.io**, enabling instant messaging and notifications.
-
 ## 📚 Continuous Learning
 
 I am constantly updating my skill set by exploring the latest technologies in:
