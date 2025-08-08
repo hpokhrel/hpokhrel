@@ -1,26 +1,47 @@
-## Hi there 🙏🙏
+# Hello there! 🙏🙌
 
 ## About Me ⚡
 
-Enthusiastic computer engineer with a solid foundation in technology. Having spent more than a year working as a developer and designer. Ready to contribute to and thrive in a demanding program by utilizing this broad background and a passion for learning.
+I'm an enthusiastic Computer Engineer with a strong foundation in technology. Over the past year, I’ve honed my skills as a developer and designer, delivering quality solutions with a focus on both the backend and frontend. I thrive in dynamic environments and am passionate about learning and applying new technologies. I’m excited to contribute to impactful projects and grow further in the field of software development.
 
-## I’m currently working on MERN Stack. 🔭
+## Currently Working With 🔭
 
-## Skills 🌱
+* **MERN Stack**: MongoDB, Express.js, React.js, Node.js
+* **Next.js** for server-side rendering and static site generation
+* **NestJS** for building efficient, scalable Node.js applications
+* **PostgreSQL** for relational database management
+* **RESTful APIs** and **GraphQL** for data interaction
 
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Node.js
-- MongoDB
-- Express.js
-- Flutter
-- AI/ML
-- Python
-- Django
+## Tech Stack 🌱
 
-## How to reach me 📫
+* **Frontend**:
 
-- :globe_with_meridians: : [hpokhrel.com.np](https://hpokhrel.com.np)
-- 📩 : info@hpokhrel.com.np
+  * HTML, CSS, JavaScript, React.js, Next.js
+* **Backend**:
+
+  * Node.js, NestJS, Express.js
+* **Database**:
+
+  * MongoDB, PostgreSQL
+* **Version Control**:
+
+  * Git, GitHub
+* **Authentication**:
+
+  * JWT, OAuth
+* **Other Tools**:
+
+  * Docker, Nginx, Webpack
+
+
+## My Projects 🚀
+
+* Building dynamic eCommerce platforms with the MERN stack
+* Developing full-stack web applications with Next.js & NestJS
+* Designing and deploying serverless architectures
+* Integrating third-party APIs and authentication systems
+
+## How to Reach Me 📫
+
+* 🌐 [My Website](http://hpokhrel.com.np)
+* 📩 Email: [myemail@example.com](mailto:pokhrelhari1@gmail.com)
