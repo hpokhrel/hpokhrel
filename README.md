@@ -67,6 +67,3 @@ I am constantly updating my skill set by exploring the latest technologies in:
 
 * 🌐 **[Visit My Portfolio](hokhrel.com.np)** – Explore my projects, blog, and insights
 * 📩 **Email**: [inbox_me](mailto:pokhrelhari1@gmail.com)
-
-
-This version is **modern**, **sleek**, and **professional** while conveying your skills and enthusiasm clearly. It’s structured to highlight your **technical expertise**, **recent projects**, and **continuous learning**. It also gives an impression of someone who is **focused** and **dedicated**, which is essential in a professional environment.
