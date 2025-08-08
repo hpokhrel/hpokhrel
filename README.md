@@ -65,5 +65,5 @@ I am constantly updating my skill set by exploring the latest technologies in:
 
 ## 📬 Get in Touch
 
-* 🌐 **[Visit My Portfolio](hokhrel.com.np)** – Explore my projects, blog, and insights
-* 📩 **Email**: [inbox_me](mailto:pokhrelhari1@gmail.com)
+* 🌐 **Portfolio: (http://hokhrel.com.np)** 
+* 📩 **Email**: (mailto:pokhrelhari1@gmail.com)
