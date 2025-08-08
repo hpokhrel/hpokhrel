@@ -1,4 +1,4 @@
-# Hello, I’m \[Humanath] 👋
+# Hello, I’m Humanath 👋
 
 ## Full-Stack Developer | Passionate Problem Solver
 
