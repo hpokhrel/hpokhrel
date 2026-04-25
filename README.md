@@ -48,4 +48,4 @@ I am constantly updating my skill set by exploring the latest technologies in:
 ## 📬 Get in Touch
 
 * 🌐 **Portfolio: (http://hokhrel.com.np)** 
-* 📩 **Email**: (mailto:pokhrelhari1@gmail.com)
+* 📩 **Email**: (mailto:contact@hpokhrel.com.np)
